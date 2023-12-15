@@ -59,3 +59,6 @@ if flag:
         mime="text/csv",
         file_name=f"{news_category[category]}_뉴스_{now}"   # 스포츠_뉴스_2023_12_15_.csv
     )
+# streamlit 깃허브로 로그인 잘해서 해봐러
+# streamlit docs가서 공부햅보기
+# api  누르기
